@@ -1,0 +1,66 @@
+{
+  "org": {
+    "friendlyName": "Modular Curriculum All Courses",
+    "name": "modular-curriculum-all-courses"
+  },
+  "repo": {
+    "friendlyName": "Intro to AI Assisted Coding",
+    "name": "intro-ai-assisted-coding",
+    "type": "Lesson",
+    "about": "This module introduces data professionals to the foundations and practical application of generative AI tools for coding. Learners will gain hands-on experience using AI assistants to generate, refactor, and evaluate Python code—building the skills to work critically and confidently with AI in their coding workflows.",
+    "starterCode": "",
+    "solutionCode": "",
+    "deployedSite": ""
+  },
+  "courses": [
+    {
+      "name": "fallback",
+      "courseAcronym": "",
+      "courseFullName": "",
+      "logoUrl": "",
+      "microlessons": [
+        {
+          "friendlyName": "Understanding AI-assisted coding",
+          "dirName": "understanding-ai-assisted-coding",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "Define AI-assisted coding and compare tools like ChatGPT, Cursor, and Copilot.",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 15
+        },
+        {
+          "friendlyName": "Hands-on with GenAI coding tools",
+          "dirName": "hands-on-with-gen-ai-coding",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "Use GenAI to prompt, refactor, and critique Python code with clarity and correctness.",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 15
+        }
+      ],
+      "isHeaderShown": true,
+      "isHeaderModuleNavShown": true,
+      "isHeaderHomeNavShown": true,
+      "isHeaderMicrolessonNavShown": true,
+      "isHeaderMicrolessonVideoLinkShown": true,
+      "isHeaderNavSettingsShown": true,
+      "isFooterCopyrightShown": true,
+      "isFooterLessonNavShown": true,
+      "isStickyNavSettingShown": true,
+      "isStickyNavAllowed": true,
+      "isFixedNavAllowed": true,
+      "isStickyNavDefault": true,
+      "isStickyNavForcedDefault": false,
+      "isFixedNavForcedDefault": false,
+      "isDarkModeSettingShown": true,
+      "isDarkModeAllowed": true,
+      "isLightModeAllowed": true,
+      "isLightModeDefault": true,
+      "isLightModeForcedDefault": false,
+      "isDarkModeForcedDefault": false,
+      "isActivityTimeShown": true
+    }
+  ]
+}
