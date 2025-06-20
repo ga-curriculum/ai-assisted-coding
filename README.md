@@ -14,7 +14,7 @@ This module introduces data professionals to the foundations and practical appli
 | [Setup](./setup/README.md)                                                |         --         | Set up the development environment.                                                   |
 | [Concepts](./concepts/README.md)                                          |         --         | Understand core ideas behind GenAI coding assistants.                                 |
 | [Understanding AI-assisted coding](./understanding-ai-assisted-coding/README.md) |       15 min       | Define AI-assisted coding and compare tools like ChatGPT, Cursor, and Copilot.        |
-| [Hands-on with GenAI coding tools](./hands-on-with-gen-ai-coding/README.md.md) |       15 min       | Use GenAI to prompt, refactor, and critique Python code with clarity and correctness. |
+| [Hands-on with GenAI coding tools](./hands-on-with-gen-ai-coding/README.md) |       15 min       | Use GenAI to prompt, refactor, and critique Python code with clarity and correctness. |
 | **Total content**                                                         |       30 min       |                                                                                       |
 
 ## References
