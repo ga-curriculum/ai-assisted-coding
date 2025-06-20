@@ -1,21 +1,21 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Intro to AI Asssited Coding</span>
 </h1>
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module.
+This module introduces data professionals to the foundations and practical application of generative AI tools for coding. Learners will gain hands-on experience using AI assistants to generate, refactor, and evaluate Python code—building the skills to work critically and confidently with AI in their coding workflows.
 
 ## Content
 
-| Lesson | Est. Delivery Time | Skills |
-| ------ |:------------------:| ------ |
-| [Setup](./setup/README.md)                          | -- | Set up the development environment. |
-| [Concepts](./concepts/README.md)                    | -- | tktk Skills to cover                |
-| [tktk Microlesson Name](./microlesson-01/README.md) | -- | tktk Skills to cover                |
-| [tktk Microlesson Name](./microlesson-02/README.md) | -- | tktk Skills to cover                |
-| **Total content**                                   | -- |                                     |
+| Lesson                                                                    | Est. Delivery Time | Skills                                                                                |
+| ------------------------------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------------- |
+| [Setup](./setup/README.md)                                                |         --         | Set up the development environment.                                                   |
+| [Concepts](./concepts/README.md)                                          |         --         | Understand core ideas behind GenAI coding assistants.                                 |
+| [Understanding AI-assisted coding](./understanding-ai-assisted-coding/README.md) |       15 min       | Define AI-assisted coding and compare tools like ChatGPT, Cursor, and Copilot.        |
+| [Hands-on with GenAI coding tools](./hands-on-with-gen-ai-coding/README.md.md) |       15 min       | Use GenAI to prompt, refactor, and critique Python code with clarity and correctness. |
+| **Total content**                                                         |       30 min       |                                                                                       |
 
 ## References
 
@@ -25,32 +25,26 @@ tktk Write a short but descriptive summary of the content in this module.
 
 ### Prerequisites
 
-- tktk
-- tktk
-- tktk
+* Basic Python syntax and functions
+* Experience with pandas and Jupyter notebooks
+* Exposure to browser-based AI assistants like ChatGPT or Claude
 
 ### Starter code
-
-tktk If there is not a starter code repo that students will use to start this lesson, then this section and all of its content should be removed.
 
 🟢 [Starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
 
 ### Solution code
 
-tktk If there is not solution code related to this module this section and all of its content should be removed.
-
 🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
 
 ### Deployed site
-
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
 
 🌐 [Live site](https://generalassemb.ly/tktk)
 
 ### Course landing pages
 
-- [tktk-course-acronym - tktk Course Full Name](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/tktk-course-acronym.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/fallback.html)
+* [ai-data-pro - AI for Data Professionals](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/genai-coding-tools/canvas-landing-pages/ai-data-pro.html)
+* [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/genai-coding-tools/canvas-landing-pages/fallback.html)
 
 ### Resources
 
