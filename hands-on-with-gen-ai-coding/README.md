@@ -5,18 +5,22 @@
 
 **Learning objective:** By the end of this lesson, students will be able to use GenAI tools to co-write or refactor code in response to specific prompts, with attention to clarity, completeness, and correctness.
 
+> 🚀 **New in Colab:**  
+> All code snippets and prompt examples in this lesson can be generated or improved using the built-in AI assistant in [colab.google.com](https://colab.google.com).  
+> Use the “Generate” or “Help me code” features in Colab to co-create, refactor, or debug code directly in your notebook!
+
 ## Making your coding environment GenAI-ready
 
-You already know your way around Python in a Jupyter notebook or other coding workspace. Today, you’ll add a new “digital teammate”: an AI assistant (for example, ChatGPT or Claude). This will let you blend your skills with the AI’s ability to generate and explain code.
+You already know your way around Python in a Jupyter notebook or other coding workspace. Today, you’ll add a new “digital teammate”: an AI assistant (for example, ChatGPT, Claude, or the new Colab AI assistant). This will let you blend your skills with the AI’s ability to generate and explain code.
 
 Let’s set up:
 
 * **Jupyter notebook (.ipynb file) or your favorite Python IDE**
   This is where you’ll run, edit, and check code—just as you’re used to.
 * **GenAI coding tool in your browser**
-  Open ChatGPT or Claude in a browser window or tab. You’ll use this chat-based tool to prompt the AI and review its replies.
+  Open ChatGPT, Claude, or use the built-in AI assistant in Colab. You’ll use this chat-based tool to prompt the AI and review its replies.
 
-> 🏆 Keeping the chat window and your coding workspace side by side helps you work seamlessly with AI while verifying code before you run it.
+> 🏆 Keeping the Colab AI sidebar or your chat window and your coding workspace side by side helps you work seamlessly with AI while verifying code before you run it.
 
 ---
 
@@ -32,16 +36,16 @@ You explain what you need in the chat, receive their code suggestion, and then b
 
 ## Crafting clear prompts for AI-assisted coding
 
-Writing concise, specific prompts gets you better results from the AI. Here are adaptable templates:
+Writing concise, specific prompts gets you better results from the AI.  
+In [Colab](https://colab.google.com), you can use the “Generate” or “Help me code” features to create, refactor, or debug code using these prompt templates:
 
-* **Generate a new function**
-
+* **Generate a new function**  
+  _Try this in Colab’s AI assistant:_
   > Write a Python function called `calculate_total_price` that takes a list of item prices and returns their sum, rounded to two decimal places.
 
-* **Refactor your existing code**
-
+* **Refactor your existing code**  
+  _Paste your code in Colab and use the AI to refactor:_
   > Here’s a function for standardizing names. Can you refactor it for readability and performance?
-  >
   > ```python
   > def standardize_names(names):
   >     for i in range(len(names)):
@@ -49,19 +53,22 @@ Writing concise, specific prompts gets you better results from the AI. Here are 
   >     return names
   > ```
 
-* **Debug or explain code**
-
+* **Debug or explain code**  
+  _Use Colab’s AI to diagnose errors:_
   > I’m getting an error when trying to merge two DataFrames. What’s wrong?
-  >
   > ```python
   > merged = df1.append(df2)
   > ```
 
-> ⚠ Even small clarifications like **providing example input data or specifying the libraries** to use make a big difference in the code you receive.
+> ⚠ Even small clarifications like **providing example input data or specifying the libraries** to use make a big difference in the code you receive.  
+> _You can generate or improve all these code snippets using Colab’s AI assistant by entering the prompt above._
 
 ---
 
 ## Best practices for prompting AI assistants
+
+> 💡 **Tip:**  
+> All of these best practices can be applied directly in Colab’s AI assistant. Try describing your requirements or asking for code improvements using the “Help me code” feature.
 
 * **Describe expected behaviors clearly.**
   Specify what the function should achieve, including input and output data types.

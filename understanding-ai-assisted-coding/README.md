@@ -92,7 +92,7 @@ AI tools are powerful, but not perfect. Keep these cautions in mind:
 
 * **Incorrect methods or syntax**
 
-  * Example: Suggesting `df.remove_nulls()` (not valid) instead of `df.dropna()`
+  * Example: Suggesting a function or method that doesn’t actually exist in the library you’re using.
 * **Security and privacy risks**
 
   * May suggest unsafe or unvalidated code
