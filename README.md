@@ -21,6 +21,7 @@ This module introduces data professionals to the foundations and practical appli
 - Experience with pandas and Jupyter notebooks
 - Familiarity with browser-based AI assistants (e.g., ChatGPT, Claude)
 
+<!--
 ## References
 
 📖 [Reference Materials](./references/README.md)
