@@ -78,7 +78,7 @@ Imagine using a GPS in a new city. You enter your destination, and the system su
 
 AI-assisted coding works the same way. It proposes solutions, but *you* are in control.
 
-> 💡 Even the best route suggestions can be wrong—or take you somewhere unexpected. Stay alert and ready to reroute when needed.
+> 💡 And just like a GPS, it can sometimes lead you down a dead-end street or suggest a route that's technically correct but not the most scenic or efficient. You still need to be the driver—staying alert, making decisions, and rerouting when necessary.
 
 ---
 
